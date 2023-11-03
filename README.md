@@ -1,5 +1,5 @@
-# Acme
-fullstack app project with Next.js, Prisma, and Postgres
+## Next.js App Router Course - Starter
 
-This is one of the tutorials on Next.js website, titled 'How to build a fullstack app with Next.js, Prisma, and Postgres. This is my first time seriously working with Javascript, React, and Next.js.
-I did not create this code, I followed a tutorial and made some tweaks.
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
